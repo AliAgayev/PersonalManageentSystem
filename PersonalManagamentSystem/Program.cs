@@ -9,10 +9,6 @@ namespace PersonalManagamentSystem
     {
         static void Main(string[] args)
         {
-            //PersonalManager.AddPersonal();
-            //WorkTimeManager.AddWorkTime();
-            //PersonalManager.ShowPersonalForPosition();
-            //  PersonalManager.DeletePersonal();
             Menu();
         }
 
@@ -49,8 +45,8 @@ namespace PersonalManagamentSystem
                     Menu();
                     break;
                 case 4:
-                    //Manager<Model>.serviceCall();
-                    //menu();
+                    PersonalManager.Updatepersonal();
+                    Menu();
                     break;
                 case 5:
                     PersonalManager.DeletePersonal();

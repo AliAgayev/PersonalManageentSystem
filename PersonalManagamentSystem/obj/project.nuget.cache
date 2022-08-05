@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "TNqUOwHjMxfEEqdFhKffu8tvYyKP0lxxLKpQI2GlhHDiLtYNMvQW3THmCJsL3FdfjCeaaUVr/w60bm5FTh5eXQ==",
+  "dgSpecHash": "sSJaRG9QDfA/YRhfEWSsxxTKJZdeixdoqg4P0leR/1rGuIGOYdtdvtabG440U/EIMjDJbDxCBQ1P8OmsJjW8+Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Agayev\\source\\repos\\PersonalManagamentSystem\\PersonalManagamentSystem\\PersonalManagamentSystem.csproj",
+  "projectFilePath": "C:\\Users\\Agayev\\Desktop\\PersonalManagerSystem\\PersonalManagamentSystem\\PersonalManagamentSystem\\PersonalManagamentSystem.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Agayev\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "C:\\Users\\Agayev\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Agayev\\source\\repos\\PersonalManagamentSystem\\PersonalManagamentSystem\\PersonalManagamentSystem.csproj": {}
+    "C:\\Users\\Agayev\\Desktop\\PersonalManagerSystem\\PersonalManagamentSystem\\PersonalManagamentSystem\\PersonalManagamentSystem.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Agayev\\source\\repos\\PersonalManagamentSystem\\PersonalManagamentSystem\\PersonalManagamentSystem.csproj": {
+    "C:\\Users\\Agayev\\Desktop\\PersonalManagerSystem\\PersonalManagamentSystem\\PersonalManagamentSystem\\PersonalManagamentSystem.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Agayev\\source\\repos\\PersonalManagamentSystem\\PersonalManagamentSystem\\PersonalManagamentSystem.csproj",
+        "projectUniqueName": "C:\\Users\\Agayev\\Desktop\\PersonalManagerSystem\\PersonalManagamentSystem\\PersonalManagamentSystem\\PersonalManagamentSystem.csproj",
         "projectName": "PersonalManagamentSystem",
-        "projectPath": "C:\\Users\\Agayev\\source\\repos\\PersonalManagamentSystem\\PersonalManagamentSystem\\PersonalManagamentSystem.csproj",
+        "projectPath": "C:\\Users\\Agayev\\Desktop\\PersonalManagerSystem\\PersonalManagamentSystem\\PersonalManagamentSystem\\PersonalManagamentSystem.csproj",
         "packagesPath": "C:\\Users\\Agayev\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Agayev\\source\\repos\\PersonalManagamentSystem\\PersonalManagamentSystem\\obj\\",
+        "outputPath": "C:\\Users\\Agayev\\Desktop\\PersonalManagerSystem\\PersonalManagamentSystem\\PersonalManagamentSystem\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Agayev\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -151,5 +151,27 @@ namespace PersonalManagamentSystem.ServiceOperations
             sqlConnection.Close();
         }
 
+        public static void Updatepersonal()
+        {
+            Personal personal = new Personal();
+            Console.WriteLine("Isci nomresini daxil edin:");
+            int personalnumber = Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine("Isci adini daxil edin:");
+            personal.Name = Console.ReadLine();
+            Console.WriteLine("Emek haqqi emsalini daxil edin:");
+            personal.WageRate = Convert.ToDecimal(Console.ReadLine());
+            SqlConnection sqlConnection = new SqlConnection(SqlConnect);
+            sqlConnection.Open();
+
+
+
+
+            string updateQuery = $" UPDATE[dbo].[Personal] SET [Name] =  '{personal.Name}', [WageRate] =  {personal.WageRate} WHERE PersonalNumber = {personalnumber}";
+
+            SqlCommand sqlCommand = new SqlCommand(updateQuery, sqlConnection);
+            sqlCommand.ExecuteNonQuery();
+            sqlConnection.Close();
+        }
+
     }
 }
